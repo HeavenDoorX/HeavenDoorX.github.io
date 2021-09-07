@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>使用教程 on R3K安全团队博客</title>
+    <link>http://localhost:1313/tags/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 使用教程 on R3K安全团队博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R3K反外挂平台使用教程</title>
+      <link>http://localhost:1313/post/r3k%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/r3k%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
+      <description>欢迎老板使用R3K反外挂，全网唯一可以在WEB端上快捷管理的反挂。 官网地址: www.r3k.com 前往控制台开始反挂接入 加QQ群或在接入游戏页面中查看视频教程，</description>
+    </item>
+    
+  </channel>
+</rss>
