@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科普 on R3K安全团队博客</title>
+    <link>http://localhost:1313/categories/%E7%A7%91%E6%99%AE/</link>
+    <description>Recent content in 科普 on R3K安全团队博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%A7%91%E6%99%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一文看懂劫持与反劫持</title>
+      <link>http://localhost:1313/post/%E5%8A%AB%E6%8C%81/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%8A%AB%E6%8C%81/</guid>
+      <description>2002年9月，传奇游戏从意大利服务器端的源代码意外泄露开始，流入中国，sf就开始萌芽了，19年间，各种游戏资源、引擎更新换代，当年无数的传</description>
+    </item>
+    
+  </channel>
+</rss>
